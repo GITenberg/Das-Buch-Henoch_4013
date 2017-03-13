@@ -1,5 +1,5 @@
 _repo: Das-Buch-Henoch_4013
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Hoffmann, Andreas Gottlieb
@@ -11,7 +11,12 @@ contributor:
     gutenberg_agent_id: '1356'
     url: http://www.gutenberg.org/2009/agents/1356
     wikipedia: http://de.wikipedia.org/wiki/Andreas_Gottlieb_Hoffmann
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4013#Das-Buch-Henoch
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
